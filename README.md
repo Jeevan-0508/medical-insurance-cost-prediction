@@ -7,6 +7,8 @@
 
 > Predicting individual medical insurance charges using regression — quantifying financial risk from personal health and demographic attributes.
 
+> **Legacy / Learning Project.** One of my early ML notebooks, kept public as a record of the learning path (classic scikit-learn pipelines, EDA, model comparison). Superseded in portfolio terms by the shipped risk/fraud/governance systems in [Jeevan-0508](https://github.com/Jeevan-0508) — this repo is archived, not deleted.
+
 ## 📌 Problem Statement
 Accurate insurance cost prediction is critical for premium pricing, underwriting, and financial risk planning. This project builds a regression pipeline estimating annual charges from policyholder attributes.
 
@@ -46,4 +48,4 @@ jupyter notebook "JK Project9_Medical_Insurance_Cost_Prediction.ipynb"
 Actuarial risk quantification is core to insurance and financial risk. Translating personal attributes into risk scores mirrors credit scoring, fraud risk tiering, and operational risk modelling.
 
 ---
-*Jeevan Siddha Bhaktula · Risk & Data Science Portfolio*
+*Jeevan Siddhabhaktula · Risk & Data Science Portfolio*
